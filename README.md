@@ -17,9 +17,9 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-##link to vid.
+## Link to vid.
 link to vid https://drive.google.com/file/d/1nEppZnSzPb1tpi4DTEKEmOdNXdv5lC6d/view?usp=share_link
 
-##screenshot.
+## Screenshot.
 
 ![readme_gen](https://github.com/Moe1401/readme-gen/assets/9557446/36ef629b-7bec-4f6b-b441-a4f58e2312c9)
