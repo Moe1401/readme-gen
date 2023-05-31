@@ -22,4 +22,9 @@ link to vid https://drive.google.com/file/d/1nEppZnSzPb1tpi4DTEKEmOdNXdv5lC6d/vi
 
 ## Screenshot.
 
+![HW9readme](https://github.com/Moe1401/readme-gen/assets/9557446/42d39e91-13f7-4ed6-a509-c4ec9d0484a4)
+
+
 ![readme_gen](https://github.com/Moe1401/readme-gen/assets/9557446/36ef629b-7bec-4f6b-b441-a4f58e2312c9)
+
+
